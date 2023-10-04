@@ -1,0 +1,37 @@
+**Documentation for Calculator Application**
+
+This documentation provides information on how to use the calculator application created by Rohit Kumar Yadav on October 3, 2023.
+
+**Overview**
+
+This calculator application is a beautifully designed and easy-to-use tool for performing basic arithmetic operations, such as addition, subtraction, multiplication, and division. It also supports more advanced functions, such as exponents, logarithms, and trigonometric functions.
+
+**Usage**
+
+To use the calculator application, simply open it and enter the desired calculation into the display field. You can use the keyboard to enter numbers and operators, or you can click on the buttons on the calculator interface.
+
+To perform a calculation, simply press the "=" button. The calculator will evaluate the expression and display the result in the display field.
+
+**Example**
+
+To calculate 2 + 3, enter the following into the display field:
+
+```
+2 + 3
+```
+
+Then, press the "=" button. The calculator will display the result, which is 5.
+
+**Clearing the Display**
+
+To clear the display, press the "AC" button. This will delete all of the text from the display field.
+
+**Troubleshooting**
+
+If you get an error message when trying to perform a calculation, it is likely that you have entered an invalid expression. Check your expression carefully and make sure that you are using the correct operators.
+
+If you are still having problems, please consult the user manual for your calculator.
+
+**Conclusion**
+
+The calculator application is a powerful and versatile tool for performing a variety of mathematical operations. It is easy to use and supports a wide range of functions.
